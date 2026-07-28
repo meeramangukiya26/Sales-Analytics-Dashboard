@@ -5,7 +5,7 @@ This project is an interactive Power BI Sales Analytics Dashboard built using Po
 
 ## Dashboard Preview
 
-![Dashboard](Sales Dashboard.png)
+![Dashboard](./Sales%20Dashboard.png)
 
 ## Dashboard Features
 - Total Sales
